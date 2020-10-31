@@ -1,9 +1,8 @@
 class triangle {
-    constructor(height, width) {
-        this.height = height
-        this.width = width
-    }
-
+  constructor (height, width) {
+    this.height = height
+    this.width = width
+  }
 }
 
 const tri = new triangle(10, 17)
