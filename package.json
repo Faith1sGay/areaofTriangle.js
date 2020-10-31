@@ -1,0 +1,9 @@
+{
+  "name": "areaof-triangle",
+  "version": "0.0.0",
+  "description": "areaofTriangle",
+  "main": "app.js",
+  "author": {
+    "name": "Faith Viola"
+  }
+}
